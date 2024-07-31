@@ -43,7 +43,7 @@ The Modbus Sampler plugin for JMeter allows for the following operations:
     ```
 
 #### Option 2: Download from Releases Page
-1. Visit the [releases page](https://github.com/Sahermatter2024/jmeter-modbus-sampler/releases) of the project repository.
+1. Visit the [releases page](https://github.com/Sahermatter2024/Jmeter-modbus-sampler/releases) of the project repository.
 2. Download the latest JAR file for the plugin.
    - Note: There are two JAR files available:
       - **JAR with dependencies**: This larger JAR file (around 1.6 MB) includes all necessary dependencies, making it easy to use without additional setup.
