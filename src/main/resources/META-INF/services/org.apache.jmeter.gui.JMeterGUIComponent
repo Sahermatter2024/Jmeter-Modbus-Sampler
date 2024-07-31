@@ -1,0 +1,4 @@
+com.example.jmeter.modbus.ModbusConnectionSamplerGui
+com.example.jmeter.modbus.ModbusWriteSamplerGui
+com.example.jmeter.modbus.ModbusCloseConnectionSamplerGui
+com.example.jmeter.modbus.ModbusReadSamplerGui

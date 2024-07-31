@@ -1,0 +1,25 @@
+This project includes the following external libraries:
+
+1. **Apache JMeter**
+   - Website: [Apache JMeter](https://jmeter.apache.org/)
+   - License: [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+2. **J2Mod**
+   - Website: [J2Mod](https://github.com/steveohara/j2mod)
+   - License: [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
+
+3. **Log4j**
+   - Website: [Log4j](https://logging.apache.org/log4j/2.x/)
+   - License: [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+4. **JUnit**
+   - Website: [JUnit](https://junit.org/junit5/)
+   - License: [Eclipse Public License 1.0](https://www.eclipse.org/legal/epl-v10.html)
+
+5. **Hamcrest**
+   - Website: [Hamcrest](http://hamcrest.org/JavaHamcrest/)
+   - License: [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
+
+6. **Mockito**
+   - Website: [Mockito](https://site.mockito.org/)
+   - License: [MIT License](https://opensource.org/licenses/MIT)
